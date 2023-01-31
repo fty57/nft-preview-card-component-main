@@ -79,7 +79,7 @@ body {
   color: hsl(0, 0%, 100%);
 }
 
-.card-title h2:hover {
+.card-title h1:hover {
   cursor: pointer;
   color: hsl(178, 100%, 50%);
 }
