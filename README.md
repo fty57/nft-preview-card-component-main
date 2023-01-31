@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-nft-card-component-using-overlay-and-changing-positions-rxpiWB3Dby)
+- Live Site URL: [Add live site URL here](https://fty57.github.io/nft-preview-card-component-main/)
 
 ## My process
 
