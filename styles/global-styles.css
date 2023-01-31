@@ -71,7 +71,7 @@ body {
   justify-content: space-between;
 }
 
-.card-title h2 {
+.card-title h1 {
   font-weight: 600;
   font-size: 1.375rem;
   font-family: "Outfit";
